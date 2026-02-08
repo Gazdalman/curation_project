@@ -10,4 +10,4 @@ title: The Architecture of Immersion
 ## Introduction 
 This collection investigates the mechanics behind the magic of Role-Playing Games. It breaks down sources for how they contribute towards building immersion and making RPGs work.
 ## How to Navigate 
-All sources are located in the **Sources** folder. You can browse them by clicking the tags directly on any note, or by using the site's built-in tag explorer.
+All sources are located in the **Sources** folder. You can browse them by clicking the tags directly on any note, or by using the site's built-in tag explorer. Or you can click [[all-sources|here]] to view all sources.
