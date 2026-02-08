@@ -2,6 +2,7 @@
 title: The Architecture of Immersion
 ---
 # The Architecture of Immersion 
+
 > [!abstract] **Project Overview** 
 > **Topic:** The design pillars of immersive RPGs. 
 > **Total Sources:** 15
