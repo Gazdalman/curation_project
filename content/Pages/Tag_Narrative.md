@@ -1,3 +1,6 @@
+# Tag: Narrative 
+*Sources related to storytelling, dialogue, and writing.*
+[[Index|⬅️ Back to Home]]
 
 ---
 ![[Source 3]]

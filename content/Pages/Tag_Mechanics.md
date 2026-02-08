@@ -1,3 +1,6 @@
+# Tag: Mechanics 
+*Sources related to specific technical implementations and rules.*
+[[Index|⬅️ Back to Home]]
 
 ---
 ![[Source 2]]
