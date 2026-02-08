@@ -1,6 +1,6 @@
 # Tag: Systems 
 *Sources related to the underlying logic, economy, and structure of the game.*
-[[Index|⬅️ Back to Home]]
+[[index|⬅️ Back to Home]]
 
 ---
 ![[Source 2]]

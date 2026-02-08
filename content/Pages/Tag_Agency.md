@@ -1,6 +1,6 @@
 #  Tag: Agency
 *Sources related to player choice, branching paths, and freedom.*
-[[Index|⬅️ Back to Home]]
+[[index|⬅️ Back to Home]]
 
 ---
 ![[Source 3]]
